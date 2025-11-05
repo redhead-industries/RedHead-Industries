@@ -16,12 +16,6 @@ In 2024, RedHead made its comeback, and with it, a renewed purpose. Today, we fo
 
 Our mission is simple: earn trust by building solutions that genuinely address the community's needs. At RedHead, we develop with transparency, dedication, and a focus on empowering users through software that reflects their voice.
 
-# Current Projects.
-
-- UniFlash: A soon-to-be-released fork of WoeUSB-NG, UniFlash is designed to give users the freedom to flash any file they want onto USBs or DVDs/Discs. Whether it's a `.bin` file, `.img`, `.iso`, or even something unconventional like a `.png`, UniFlash makes it possible.
-
-- EFIGuard: EFIGuard is a protective tool for Windows 10 and 11 that allows users to spoof EFI files and information to safeguard the real EFI files from malicious content, such as malware. If a program attempts to modify the spoofed EFI files, EFIGuard force-closes the intruding program and notifies the user about the modification attempt, including details about the offending program's location. As of right now, this program is still in a soon-to-be-released state and is in it's very early stages of development.
-
 # Join us!
 
-If you want to join the RedHead Group, please email us at redhead@tuta.com and request to join. We are always looking for passionate individuals who share our vision and values.
+We are currently setting up new things for RedHead Industries, check back soon!
