@@ -4,9 +4,9 @@
 
 ### *By the people. For the people.*
 
-RedHead Industries is an independent Canadian organization founded by **Matthew DaLuz**, dedicated to building **free and open-source (FOSS)** software, games, and experimental medicine — all focused on **privacy, transparency, and equality**.
+RedHead Industries is an independent Canadian organization founded by **Matthew DaLuz**, dedicated to building **free and open-source (FOSS)** software, games, and open research — all focused on **privacy, transparency, and equality**.
 
-Our philosophy is simple: everyone deserves access to powerful, high-quality software and medical innovation without being exploited, tracked, or silenced. We believe in a **semi-communist** economic balance — where capitalism and equality coexist, and where the rich share their success to uplift the poor.
+Our philosophy is simple: everyone deserves access to powerful, high-quality software and innovation without being exploited, tracked, or silenced.
 
 At RedHead, we aren’t a corporation chasing profit — we’re a movement of developers, creators, and thinkers building technology **for humanity**.
 
@@ -14,25 +14,17 @@ At RedHead, we aren’t a corporation chasing profit — we’re a movement of d
 
 ## 🏗️ Our Structure
 
-RedHead consists of three key branches, each working toward the same vision of a freer and fairer digital and physical world:
+RedHead consists of two key branches, each working toward the same vision of a freer and fairer digital and physical world:
 
 ### 🖥️ RedHead Technologies
 
 Focused on developing open-source software, games, and hardware prototypes.
 We aim to bring AAA-quality design, performance, and transparency to the open-source community — from utility tools to full-fledged entertainment and productivity software.
 
-### 💊 RedHead Medical
+### 🔬 RedHead Open-Research
 
-Dedicated to experimental and innovative medical development.
-This branch explores new approaches to neurological and mental health conditions such as **autism, ADHD, and schizophrenia**, aiming to improve — and one day even reverse-engineer — disabilities through research-driven innovation.
-
-### 🛡️ RIIDF (RedHead International Internet Defense Force)
-
-A **virtual-only** cybersecurity and digital freedom division.
-RIIDF’s mission is to protect online privacy, defend human rights in cyberspace, and hold malicious corporations accountable through ethical cybersecurity research and open-source defense tools.
-
-> ⚠️ **Note:** RIIDF is **not** a national defense or government-associated branch — it is purely a **cybersecurity initiative** focused on digital freedom and privacy awareness.
-
+Dedicated to innovative and open research.
+This information is a work-in-progress.
 ---
 
 ## 📜 Our Story
