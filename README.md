@@ -1,74 +1,134 @@
-![RedHeadLogoPaidFull](https://github.com/user-attachments/assets/3c7c44b9-d7af-42e6-8069-953363f34954)
-
-## 👋 Welcome to **RedHead Industries**
-
-### *By the people. For the people.*
-
-RedHead Industries is an independent Canadian organization founded by **Matthew DaLuz**, dedicated to building **free and open-source (FOSS)** software, games, and open research — all focused on **privacy, transparency, and equality**.
-
-Our philosophy is simple: everyone deserves access to powerful, high-quality software and innovation without being exploited, tracked, or silenced.
-
-At RedHead, we aren’t a corporation chasing profit — we’re a movement of developers, creators, and thinkers building technology **for humanity**.
+> [!IMPORTANT]
+> ## Rebranding Notice
+> Beginning on **May 10th, 2026 at 12:00 AM EDT**, **RedHead Industries** is being officially rebranded to **Skidworks**.
+>
+> During this transition period, repositories, websites, documentation, domains, branding assets, and organization names may still temporarily reference **RedHead Industries**.
+>
+> Skidworks is the direct continuation and successor of RedHead Industries.
+>
+> Thank you for your patience during this rebranding process.
 
 ---
 
-## 🏗️ Our Structure
+<img width="1007" height="248" alt="SkidworksLogo-Transparent" src="https://github.com/user-attachments/assets/208eaacd-063e-4dc7-aa78-3d04f285548a" />
 
-RedHead consists of two key branches, each working toward the same vision of a freer and fairer digital and physical world:
 
-### 🖥️ RedHead Technologies
+### *Open engineering for everyone.*
 
-Focused on developing open-source software, games, and hardware prototypes.
-We aim to bring AAA-quality design, performance, and transparency to the open-source community — from utility tools to full-fledged entertainment and productivity software.
+Skidworks is a Canadian nonprofit software engineering and development organization founded by **Matthew DaLuz**.
 
-### 🔬 RedHead Open-Research
+We focus primarily on the development of **free-and-open-source software (FOSS)** designed for everyday use, accessibility, privacy, reliability, and user freedom. In some cases, Skidworks may also work on open-source hardware and experimental engineering projects when they align with our goals and values.
 
-Dedicated to innovative and open research.
-This information is a work-in-progress.
----
+Our mission is simple:
 
-## 📜 Our Story
-
-Founded in **2015** by Matthew, RedHead began as a small book and comic publishing company before evolving into a game development studio.
-
-Between **2019–2020**, we worked to recreate the PlayStation classic ***Vib-Ribbon*** as a fan-made open-source project called **Vib-Ribbon+**. Although the project was later cancelled due to internal challenges, its development shaped the foundation of RedHead’s open-source philosophy.
-
-In **2024**, RedHead was reborn — this time with a greater mission: to build transparent, community-powered technology that respects freedom and privacy. Every project we create is released under open-source licenses and shaped by direct community feedback.
+> Build powerful, transparent, and accessible technology that respects users instead of exploiting them.
 
 ---
 
-## 🌐 Our Beliefs
+# What We Do
 
-* **Privacy is a right**, not a privilege.
-* **Freedom of speech** and **open access** to information are essential for progress.
-* **Transparency** builds trust — our code, goals, and methods will always remain open.
-* **Community** comes before profit.
+Skidworks develops and maintains:
 
-We are **your neighbors, your coworkers, your friends — and the voices that refuse to be silenced.**
+- Free-and-open-source software
+- Linux and Android tools
+- System utilities and infrastructure software
+- Developer tools and engineering utilities
+- Experimental and prototype technologies
+- Open-source hardware projects
+- Privacy-respecting everyday-use applications
 
----
+Our work is designed to be:
+- Transparent
+- Community-driven
+- Accessible
+- Modifiable
+- Reliable
+- Privacy-respecting
 
-## 💸 Support RedHead
-
-RedHead operates fully independently and **relies on community donations** to keep our website, domain, and projects alive.
-We accept **Bitcoin**, **Monero**, and **Ko-fi** donations.
-
-> 💡 *We prefer Bitcoin/Monero due to Stripe’s unreliability at this time.*
-
-You can find all of our donation methods here:
-👉 [**redheadindustries.xyz**](https://redheadindustries.xyz)
-
----
-
-## 🚀 The Future
-
-We’re still growing and setting up new systems — including developer tools, community hubs, and collaborative spaces.
-RedHead is **not yet a registered business**, but we plan to officially register as a **non-profit organization by February 2026**.
-
-If you share our vision and want to help shape the future of privacy, open-source software, and human equality —
-💬 **Join us.** Volunteer. Collaborate. Make change with us.
+We believe users should have the freedom to:
+- Understand their technology
+- Modify their systems
+- Own their devices
+- Control their data
+- Use software without surveillance, lock-in, or artificial restrictions
 
 ---
 
-**© 2015–2025 RedHead Industries. All Rights Reserved.**
-Built with passion, powered by freedom, made for everyone.
+# Our Philosophy
+
+Skidworks is built around a few core principles:
+
+## Openness
+Whenever possible, our projects are released as free-and-open-source software and hardware. We believe openness creates trust, accountability, collaboration, and long-term sustainability.
+
+## Accessibility
+Technology should be available to everyone — not only large corporations, institutions, or people who can afford expensive ecosystems.
+
+## Privacy & User Respect
+Users should never be treated as products. We aim to build systems that respect privacy, minimize unnecessary data collection, and give users control over their own technology.
+
+## Engineering First
+We value practical engineering, reliability, maintainability, and transparency over hype, artificial limitations, or marketing-driven design.
+
+---
+
+# Areas of Development
+
+Skidworks may work in areas such as:
+
+- Linux software and tooling
+- Android systems and utilities
+- Open-source infrastructure
+- Operating system development
+- System management software
+- Boot and deployment systems
+- Open hardware experimentation
+- Community engineering initiatives
+
+Not every project is guaranteed to become production-ready. Some projects may remain experimental, educational, or prototype-based.
+
+---
+
+# Community & Collaboration
+
+Skidworks is community-oriented and welcomes:
+- Contributors
+- Developers
+- Testers
+- Researchers
+- Designers
+- Documentation writers
+- Privacy advocates
+- Open-source enthusiasts
+
+Constructive feedback, collaboration, and transparency are important parts of how we operate.
+
+---
+
+# Funding & Support
+
+Skidworks operates independently and is supported primarily through:
+- Community donations
+- Voluntary contributions
+- Open-source collaboration
+
+We do not believe in exploitative monetization, invasive advertising, or treating users as products.
+
+Support methods and additional information may be provided through official Skidworks platforms in the future.
+
+---
+
+# The Future
+
+Skidworks is still growing and evolving.
+
+Our long-term goal is to create high-quality free-and-open-source software and hardware that people can genuinely rely on in everyday life — without sacrificing freedom, transparency, or user control.
+
+Technology should empower people, not control them.
+
+And that is what Skidworks aims to build.
+
+---
+
+**Skidworks**
+*Built openly. Built for everyone.*
